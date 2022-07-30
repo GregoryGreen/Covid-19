@@ -12,6 +12,12 @@ Performing basic data cleaning and querying on MS SQL Server to explore insights
 
 Constructing visaualizaions on Tableau Public (including forecast analysis to predict the trend of Percent of population infected in some specific countries).
 
+4 key areas interests me for me to perform further analysis:
+- % Population Infected Per Country
+
+
+
+
 
 
 
