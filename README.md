@@ -7,7 +7,9 @@ This project involves extracting the Covid-19 data (Covid deaths and vaccination
 # Analysis Process
 
 Utilizing SQL Server to perform data analysis on the COVID-19 Pandemic.
+
 Performing basic data cleaning and querying on MS SQL Server to explore insights out of the data
+
 Constructing visaualizaions on Tableau Public (including forecast analysis to predict the trend of Percent of population infected in some specific countries).
 
 
