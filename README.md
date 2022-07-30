@@ -23,6 +23,6 @@ Constructing visaualizaions on Tableau Public (including forecast analysis to pr
 
 
 
-
+Tableau Public Dashboard Link: https://public.tableau.com/app/profile/gregory.green8362/viz/CovidVisuals_16591169243170/Dashboard1
 
 Dataset Source: https://ourworldindata.org/covid-deaths
