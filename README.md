@@ -10,7 +10,7 @@ Utilizing SQL Server to perform data analysis on the COVID-19 Pandemic.
 
 Performing basic data cleaning and querying on MS SQL Server to explore insights out of the data
 
-Constructing visaualizaions on Tableau Public (including forecast analysis to predict the trend of Percent of population infected in some specific countries).
+Constructing visualizations on Tableau Public (including forecast analysis to predict the trend of Percent of population infected in some specific countries).
 
 4 key areas interests me for me to perform further analysis:
 - % Population Infected Per Country
