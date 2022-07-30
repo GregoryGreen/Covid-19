@@ -14,6 +14,9 @@ Constructing visaualizaions on Tableau Public (including forecast analysis to pr
 
 4 key areas interests me for me to perform further analysis:
 - % Population Infected Per Country
+- Global Covid Numbers
+- Total Death Per Continents
+- % Population Infected of 5 countries that I am interested in.
 
 
 
