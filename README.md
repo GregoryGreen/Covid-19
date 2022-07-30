@@ -1,6 +1,6 @@
 # Covid-19: Data Exploration
 
-For almost 3 years, we have been living with the Covid-19 Pandemic since it surfaced in November - December 2019. By exploring and analyzing the dataset, I hope to understand the current trend based on data
+For almost 3 years, we have been living with the Covid-19 Pandemic since it surfaced in November - December 2019. By exploring and analyzing the dataset, I hope to understand the current trend based on data.
 
 This project involves extracting the Covid-19 data (Covid deaths and vaccinations related) ranging from early February, 2020 to the end of July, 2022.
 
